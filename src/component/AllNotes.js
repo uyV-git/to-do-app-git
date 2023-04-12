@@ -120,7 +120,7 @@ function AllNotes({ notes }) {
           <CreateBtn onClick={onClickCreate}>Create</CreateBtn>
         </TitleBox>
         <List>
-          {/* {lists} */}
+
           {notes && notes.map((list) => (
             <ListElement>
               {list.content}
