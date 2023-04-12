@@ -65,24 +65,7 @@ const ListElement = styled.li`
   }
 `
 
-// const tasks = [
-//   { id: 1, content: 'Read work emails' },
-//   { id: 2, content: 'Take out the bins' },
-//   { id: 3, content: 'Change oil in car' },
-//   { id: 4, content: 'Call back to boss' },
-//   { id: 5, content: 'Send report to Frank' },
-//   { id: 6, content: 'Pick up the groceries' },
-// ]
 
-// const lists = tasks.map((list) => (
-//   <ListElement>
-//     {list.content}
-//     <div className="buttons">
-//       <button className="likeBtn">&hearts;</button>
-//       <button className="deleteBtn">&times;</button>
-//     </div>
-//   </ListElement>
-// ))
 
 const animate = {
   initial: {
